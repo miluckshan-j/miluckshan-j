@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 📍 Colombo, Sri Lanka &nbsp;·&nbsp; ✉️ [miluckshan.official@gmail.com](mailto:miluckshan.official@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/miluckshan-j) &nbsp;·&nbsp; [Medium](https://medium.com/@miluckshan-j)
 
+🎓 MSc Advanced Software Engineering, University of Westminster (Distinction) · BSc Computer Science & Software Engineering, University of Bedfordshire
+
 ---
 
 ## What drives me
@@ -41,6 +43,5 @@ You can click the Preview link to take a look at your changes.
 - ✍️ **Writing:** Articles on [Medium](https://medium.com/@miluckshan-j)
 - 🌱 **Exploring:** New AI tools
 
-🎓 MSc Advanced Software Engineering, University of Westminster (Distinction) · BSc Computer Science & Software Engineering, University of Bedfordshire
 
 
