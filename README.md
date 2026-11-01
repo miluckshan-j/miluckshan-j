@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 🎓 MSc Advanced Software Engineering, University of Westminster (Distinction) · BSc Computer Science & Software Engineering, University of Bedfordshire
 
----
-
 ## What drives me
 
 - **I'm a builder.** Nothing beats taking an idea and turning it into something people can actually use.
